@@ -1,7 +1,5 @@
 import streamlit as st
 
-cgu_logo = "https://pbs.twimg.com/profile_images/1299210897450323973/ge3Q9xtG_400x400.jpg"
-url = "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/64/null/external-mind-map-infographic-and-chart-xnimrodx-lineal-color-xnimrodx.png"
 
 col1, col2, col3 = st.columns(3)
 with col1:
